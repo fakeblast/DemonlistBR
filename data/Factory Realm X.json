@@ -9,14 +9,20 @@
     "password": "Copiável",
     "records": [
             {
-            "user": "DibiiziCookie",
-            "link": "https://www.youtube.com/watch?v=AqKBny7eX5Q",
+            "user": "Akane",
+            "link": "https://www.youtube.com/watch?v=xMRUwFLnvW4",
             "percent": 100,
-            "hz": 360
+            "hz": 120
         },
         {
-            "user": "Sharpzera",
-            "link": "https://www.youtube.com/watch?v=hA3oWUv-sMs&t",
+            "user": "ultrakawaHD",
+            "link": "https://www.youtube.com/watch?v=nz9549EGcaQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DibiiziCookie",
+            "link": "https://www.youtube.com/watch?v=xvSTS40wsfE",
             "percent": 100,
             "hz": 240
         }
