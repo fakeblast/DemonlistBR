@@ -1,22 +1,16 @@
 {
-    "id": 72315402,
-    "name": "arcturus",
-    "author": "maxfs",
-    "creators": [],
-    "verifier": "ultrakawaHD",
-    "verification": "https://www.youtube.com/watch?v=a_Bqa8l9Xtc",
+    "id": 112309508,
+    "name": "Junk Realm",
+    "author": "HelpegasuS",
+    "creators": ["HelpegasuS", "LChaseR", "ZrKiphal", "Kanati", "Wespdx", "HugoLA"],
+    "verifier": "xander556 (Estrangeiro)",
+    "verification": "https://www.youtube.com/watch?v=_qjFyW9-cYU",
     "percentToQualify": "75",
     "password": "Copiável",
     "records": [
             {
-            "user": "DibiiziCookie",
-            "link": "https://www.youtube.com/watch?v=AqKBny7eX5Q",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sharpzera",
-            "link": "https://www.youtube.com/watch?v=hA3oWUv-sMs&t",
+            "user": "fakeblast",
+            "link": "https://www.youtube.com/watch?v=WWUQnskpjhM",
             "percent": 100,
             "hz": 240
         }
