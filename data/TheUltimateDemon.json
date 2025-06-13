@@ -1,24 +1,18 @@
 {
-    "id": 77016475,
-    "name": "Beyond Hell",
-    "author": "fakeblast",
-    "creators": ["fakeblast", "maxfs", "P0ki", "nazerr", "MercuryDT", "idiocy", "Enzeux", "trickyb89", "rRaddie", "nCarver", "Rayiumi", "Diamondskull"],
-    "verifier": "fakeblast",
-    "verification": "https://www.youtube.com/watch?v=RRtIiUBaVo4",
+    "id": 93939369,
+    "name": "The Ultimate Demon",
+    "author": "vit12",
+    "creators": [],
+    "verifier": "LordVadercraft (Estrangeiro)",
+    "verification": "https://www.youtube.com/watch?v=C-LFHgp-oU0",
     "percentToQualify": "75",
     "password": "Copiável",
     "records": [
             {
-            "user": "Paip",
-            "link": "https://www.youtube.com/watch?v=INDySkUYxtk",
+            "user": "VS LEGEND",
+            "link": "https://www.youtube.com/watch?v=xeRHvFSUKDg",
             "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "DibiiziCookie",
-            "link": "https://www.youtube.com/watch?v=m4P-tlpIv6s",
-            "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
