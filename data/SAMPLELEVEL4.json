@@ -1,0 +1,24 @@
+{
+    "id": 72315402,
+    "name": "arcturus",
+    "author": "maxfs",
+    "creators": [],
+    "verifier": "ultrakawaHD",
+    "verification": "https://www.youtube.com/watch?v=a_Bqa8l9Xtc",
+    "percentToQualify": "75",
+    "password": "Copiável",
+    "records": [
+            {
+            "user": "DibiiziCookie",
+            "link": "https://www.youtube.com/watch?v=AqKBny7eX5Q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sharpzera",
+            "link": "https://www.youtube.com/watch?v=hA3oWUv-sMs&t",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
