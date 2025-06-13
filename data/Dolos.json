@@ -1,24 +1,42 @@
 {
     "id": 72315402,
-    "name": "arcturus",
-    "author": "maxfs",
-    "creators": [],
-    "verifier": "ultrakawaHD",
-    "verification": "https://www.youtube.com/watch?v=a_Bqa8l9Xtc",
+    "name": "Dolos",
+    "author": "Enzeux",
+    "creators": ["Enzeux", "vit12", "Digex", "PeanutButter", "HelpegasuS", "MrMeurick", "Jhemyson", "HugoLA"],
+    "verifier": "Enzeux",
+    "verification": "https://www.youtube.com/watch?v=velFCMli60A",
     "percentToQualify": "75",
     "password": "Copiável",
     "records": [
             {
-            "user": "DibiiziCookie",
-            "link": "https://www.youtube.com/watch?v=AqKBny7eX5Q",
+            "user": "ultrakawaHD",
+            "link": "https://www.youtube.com/watch?v=n4JMgWEgwWU",
             "percent": 100,
-            "hz": 360
+            "hz": 288
         },
         {
-            "user": "Sharpzera",
-            "link": "https://www.youtube.com/watch?v=hA3oWUv-sMs&t",
+            "user": "fakeblast",
+            "link": "https://www.youtube.com/watch?v=1HdykIVdGFc",
             "percent": 100,
-            "hz": 240
+            "hz": 288
+        },
+        {
+            "user": "Mxteus",
+            "link": "https://www.youtube.com/watch?v=GgYrcOhbg70",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "phila",
+            "link": "https://www.youtube.com/watch?v=NBdnsj5ov8U",
+            "percent": 100,
+            "hz": []
+        },
+         {
+            "user": "DibiiziCookie",
+            "link": "https://www.youtube.com/watch?v=MhHPhDCzCqA",
+            "percent": 100,
+            "hz": []
         }
     ]
 }
