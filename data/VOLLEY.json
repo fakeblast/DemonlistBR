@@ -1,0 +1,24 @@
+{
+    "id": 77016475,
+    "name": "Beyond Hell",
+    "author": "fakeblast",
+    "creators": ["fakeblast", "maxfs", "P0ki", "nazerr", "MercuryDT", "idiocy", "Enzeux", "trickyb89", "rRaddie", "nCarver", "Rayiumi", "Diamondskull"],
+    "verifier": "fakeblast",
+    "verification": "https://www.youtube.com/watch?v=RRtIiUBaVo4",
+    "percentToQualify": "75",
+    "password": "Copiável",
+    "records": [
+            {
+            "user": "Paip",
+            "link": "https://www.youtube.com/watch?v=INDySkUYxtk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DibiiziCookie",
+            "link": "https://www.youtube.com/watch?v=m4P-tlpIv6s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
