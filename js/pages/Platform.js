@@ -160,18 +160,18 @@ export default {
         // Error handling
         if (!this.list) {
             this.errors = [
-                "Falha ao carregar a lista de levels. Tente novamente mais tarde.",
+                "Failed to load list. Retry in a few minutes or notify list staff.",
             ];
         } else {
             this.errors.push(
                 ...this.list
                     .filter(([_, err]) => err)
                     .map(([_, err]) => {
-                        return `Falha ao carregar o level. (${err}.json)`;
+                        return `Failed to load level. (${err}.json)`;
                     })
             );
             if (!this.editors) {
-                this.errors.push("Falha ao carregar os editores da lista.");
+                this.errors.push("Failed to load list editors.");
             }
         }
 
