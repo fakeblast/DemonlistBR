@@ -4,21 +4,9 @@
     "author": "LChaseR",
     "creators": ["LChaseR"],
     "verifier": "LChaseR",
-    "verification": "https://www.youtube.com/watch?v=RRtIiUBaVo4",
+    "verification": "https://www.youtube.com/watch?v=kJmqWS9iVyA",
     "percentToQualify": "75",
     "password": "Copiável",
     "records": [
-            {
-            "user": "Paip",
-            "link": "https://www.youtube.com/watch?v=INDySkUYxtk",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "DibiiziCookie",
-            "link": "https://www.youtube.com/watch?v=m4P-tlpIv6s",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
