@@ -1,18 +1,60 @@
 {
-    "id": 112309508,
-    "name": "Junk Realm",
-    "author": "HelpegasuS",
-    "creators": ["HelpegasuS", "LChaseR", "ZrKiphal", "Kanati", "Wespdx", "HugoLA"],
-    "verifier": "xander556 (Estrangeiro)",
-    "verification": "https://www.youtube.com/watch?v=_qjFyW9-cYU",
+    "id": 63245954,
+    "name": "Cursed Nightmare",
+    "author": "Ghotstav",
+    "creators": [],
+    "verifier": "RyuDieDragon (Estrangeiro)",
+    "verification": "https://www.youtube.com/watch?v=-J1-am0lBtU",
     "percentToQualify": "75",
     "password": "Copiável",
     "records": [
             {
-            "user": "fakeblast",
-            "link": "https://www.youtube.com/watch?v=WWUQnskpjhM",
+            "user": "DibiiziCookie",
+            "link": "https://www.youtube.com/watch?v=XrB6yrotaqg",
             "percent": 100,
-            "hz": 240
+            "hz": 120
+        },
+        {
+            "user": "ManucaGD",
+            "link": "https://www.youtube.com/watch?v=jqb3aAj5PAs",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DarkBBT",
+            "link": "https://www.youtube.com/watch?v=7qPqN9gi3BM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Teris700",
+            "link": "https://www.youtube.com/watch?v=9dixzKLsuuU",
+            "percent": 100,
+            "hz": []
+        },
+        {
+            "user": "phila",
+            "link": "https://www.youtube.com/watch?v=Nmb5einJgYE",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "LKLOCO",
+            "link": "https://www.youtube.com/watch?v=bcY0wCyPt1I",
+            "percent": 100,
+            "hz": []
+        },
+        {
+            "user": "Theft",
+            "link": "https://www.youtube.com/watch?v=8FxxOl86Cfc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "MarcioSobel",
+            "link": "https://www.youtube.com/watch?v=mFjjmQEtMpQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
