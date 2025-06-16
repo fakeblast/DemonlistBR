@@ -1,18 +1,12 @@
 {
-    "id": 112309508,
-    "name": "Junk Realm",
-    "author": "HelpegasuS",
-    "creators": ["HelpegasuS", "LChaseR", "ZrKiphal", "Kanati", "Wespdx", "HugoLA"],
-    "verifier": "xander556 (Estrangeiro)",
-    "verification": "https://www.youtube.com/watch?v=_qjFyW9-cYU",
+    "id": 72612321,
+    "name": "Tormenta",
+    "author": "SawiArtz",
+    "creators": ["SawiArtz", "Takumii", "Lavender99", "BioHistoria", "Icaruuu", "LChaseR", "Kamizux", "ZrKiphal", "ReiGalinha"],
+    "verifier": "Luyz",
+    "verification": "https://www.youtube.com/watch?v=_veOrVrIu-s",
     "percentToQualify": "75",
     "password": "Copiável",
     "records": [
-            {
-            "user": "fakeblast",
-            "link": "https://www.youtube.com/watch?v=WWUQnskpjhM",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
