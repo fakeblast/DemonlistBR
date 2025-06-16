@@ -50,12 +50,8 @@ export default {
                             <div class="type-title-sm">ID</div>
                             <p>{{ level.id }}</p>
                         </li>
-                        <li>
-                            <div class="type-title-sm">Senha</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
-                        </li>
                     </ul>
-                    <h2>Records</h2>
+                    <h2>Recordes</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> ou mais para qualificar</p>
                     <p v-else-if="selected +1 <= 150"><strong>100%</strong> ou mais para qualificar</p>
                     <p v-else>Este level não aceita mais recordes novos.</p>
@@ -70,9 +66,6 @@ export default {
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
-                            <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
-                            </td>
                         </tr>
                     </table>
                 </div>
@@ -86,10 +79,10 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
+                        <p class="type-label-md">Layout do website: <a href="https://github.com/Prometheus-03" target="_blank">Prometheus</a></p>
                     </div>
                     <template v-if="editors">
-                        <h3>List Editors</h3>
+                        <h3>Editores da Lista</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
