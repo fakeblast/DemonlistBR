@@ -1,18 +1,12 @@
 {
-    "id": 112309508,
-    "name": "Junk Realm",
-    "author": "HelpegasuS",
-    "creators": ["HelpegasuS", "LChaseR", "ZrKiphal", "Kanati", "Wespdx", "HugoLA"],
-    "verifier": "xander556 (Estrangeiro)",
-    "verification": "https://www.youtube.com/watch?v=_qjFyW9-cYU",
+    "id": 9004118,
+    "name": "Armageddon",
+    "author": "Hakkou",
+    "creators": [],
+    "verifier": "MaxiS9 (Estrangeiro)",
+    "verification": "https://www.youtube.com/watch?v=s_IL6M2dDbg",
     "percentToQualify": "75",
     "password": "Copiável",
     "records": [
-            {
-            "user": "fakeblast",
-            "link": "https://www.youtube.com/watch?v=WWUQnskpjhM",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
