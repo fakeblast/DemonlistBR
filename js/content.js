@@ -46,8 +46,21 @@ export async function fetchEditors() {
     }
 }
 
+// Função pra pegar a lista de players banidos
+async function fetchBannedPlayers() {
+    try {
+        const res = await fetch(`${dir}/_bans.json`);
+        const banned = await res.json();
+        return banned;
+    } catch {
+        console.error('Falha ao carregar a lista');  
+        return[];
+    }
+}
+
 export async function fetchLeaderboard() {
     const list = await fetchList();
+    const bannedPlayers = await fetchBannedPlayers();
 
     const scoreMap = {};
     const errs = [];
@@ -106,7 +119,14 @@ export async function fetchLeaderboard() {
     });
 
     // Wrap in extra Object containing the user and total score
-    const res = Object.entries(scoreMap).map(([user, scores]) => {
+    const res = Object.entries(scoreMap)
+    .filter(([user]) => {
+        // Filtra os players banidos
+        return !bannedPlayers.some(banned =>
+            banned.toLowerCase() === user.toLowerCase()
+        );
+    })
+    .map(([user, scores]) => {
         const { verified, completed, progressed } = scores;
         const total = [verified, completed, progressed]
             .flat()
