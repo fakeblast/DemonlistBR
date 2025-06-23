@@ -1,24 +1,12 @@
 {
-    "id": 94563744,
-    "name": "tipo B",
-    "author": "classic10",
+    "id": 118366680,
+    "name": "SLAY MOMENT",
+    "author": "rafabirds",
     "creators": [],
-    "verifier": "classic10",
-    "verification": "https://www.youtube.com/watch?v=KIb8mqjvxqM",
+    "verifier": "rafabirds",
+    "verification": "https://www.youtube.com/watch?v=O4cyhCpTT_c",
     "percentToQualify": "75",
     "password": "Copiável",
     "records": [
-          {
-            "user": "ic33",
-            "link": "https://www.youtube.com/watch?v=PjczAGhFiLk",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "fakeblast",
-            "link": "https://www.youtube.com/watch?v=2JPdi1GALxU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
