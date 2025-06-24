@@ -50,6 +50,10 @@ export default {
                             <div class="type-title-sm">ID</div>
                             <p>{{ level.id }}</p>
                         </li>
+                        <li>
+                            <div class="type-title-sm">Rate</div>
+                            <p>{{ getRateLabel(level.rate) }}</p>
+                        </li>
                     </ul>
                     <h2>Recordes</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> ou mais para qualificar</p>
@@ -173,5 +177,8 @@ export default {
     methods: {
         embed,
         score,
+        getRateLabel(rate) {
+            return rate === 1 ? 'Rated' : 'Unrated';
+        }
     },
 };
