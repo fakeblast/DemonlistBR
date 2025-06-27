@@ -1,18 +1,12 @@
 {
-    "id": 111660798,
-    "name": "Collapse",
-    "author": "fwefwe",
-    "creators": ["fwefwe", "Surv"],
-    "verifier": "blankb (Estrangeiro)",
-    "verification": "https://www.youtube.com/watch?v=ou94A4ErTSE",
+    "id": 56172558,
+    "name": "Python",
+    "author": "joojmiguel",
+    "creators": ["joojmiguel", "Exylem", "Subverse", "vit12", "crashPancake2", "Kakemancool", "Acnologia GD", "VyuGD", "HugoLA", "ToastLord", "BlasterRobotz", "Epxa", "Starsign", "Pytheron", "PulsarGD", "Synthetik", "iKirbix", "eXoFuzion", "Xadriz", "Guillaum"],
+    "verifier": "joojmiguel",
+    "verification": "https://www.youtube.com/watch?v=w8JoQ4firrM",
     "percentToQualify": "75",
     "rate": 1,
     "records": [
-            {
-            "user": "DibiiziCookie",
-            "link": "https://www.youtube.com/watch?v=UGnvXgJx3Zk",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
