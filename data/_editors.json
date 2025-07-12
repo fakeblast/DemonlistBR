@@ -10,9 +10,24 @@
         "link": "https://www.youtube.com/channel/UCUCH9hPfqLDEf-Mf1jqFS2g"
     },
     {
+        "role": "admin",
+        "name": "kaapy",
+        "link": "https://www.youtube.com/@KaapyCatz"
+    },
+    {
+        "role": "admin",
+        "name": "vccic",
+        "link": "https://www.youtube.com/channel/UCCokaTEuQbubiBN3yWeQQ8A"
+    },
+    {
         "role": "helper",
         "name": "Buriti",
         "link": "https://www.youtube.com/channel/UCUkFdvLzJVYYZe9vJIamN2A"
+    },
+    {
+        "role": "helper",
+        "name": "piruleib",
+        "link": "https://www.youtube.com/channel/UCca7TDGIry10Rq4JGsuUrgQ"
     },
     {
         "role": "dev",
@@ -23,5 +38,10 @@
         "role": "dev",
         "name": "Xcomfritas",
         "link": "https://www.youtube.com/channel/UCUCH9hPfqLDEf-Mf1jqFS2g"
+    }
+    {
+        "role": "dev",
+        "name": "piruleib",
+        "link": "https://www.youtube.com/channel/UCca7TDGIry10Rq4JGsuUrgQ"
     }
 ]
