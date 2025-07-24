@@ -8,6 +8,12 @@
     "percentToQualify": "75",
     "rate": 1,
     "records": [
+        {
+            "user": "SirLouco",
+            "link": "https://www.youtube.com/watch?v=Clt-sEpJ0v0",
+            "percent": 100,
+            "hz": 120
+        },
             {
             "user": "DibiiziCookie",
             "link": "https://www.youtube.com/watch?v=XrB6yrotaqg",
