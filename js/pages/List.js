@@ -97,16 +97,13 @@ export default {
                     </template>
                     <h3>Regras da Lista</h3>
                     <p>
-                        Para enviar um recorde o jogador precisa de vídeo para comprovar sua legitimidade
+                        Para enviar um recorde o jogador precisa de vídeo para comprovar sua legitimidade.
                     </p>
                     <p>
                         Para enviar um level para a lista, ele também deve ser verificado legitimamente e seguir as mesmas regras de recorde.
                     </p>
                     <p>
-                        O level obrigatóriamente deve ser rated para entrar na lista.
-                    </p>
-                    <p>
-                        Gravação completa do recorde não é obrigatório mas talvez seja exigido dependendo do recorde, então é sempre bom que tenha guardado com você até que o recorde seja aceito ou recusado.
+                        Gravação completa do recorde não será exigido para levels que estão fora do top 150 da Pointercrate. Clicks serão exigidos para TODOS os recordes de Extreme Demons, dificuldades de Insane Demon e abaixo não precisarão de clicks.
                     </p>
                     <p>
                         O jogador obrigatóriamente deve ser brasileiro para ser adicionado.
