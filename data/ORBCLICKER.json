@@ -8,5 +8,11 @@
     "percentToQualify": "75",
     "rate": 1,
     "records": [
+        {
+            "user": "fakeblast",
+            "link": "https://www.youtube.com/watch?v=VW8zVazXS-0",
+            "percent": 100,
+            "hz": []
+        }
     ]
 }
