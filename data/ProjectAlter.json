@@ -8,5 +8,11 @@
     "percentToQualify": "75",
     "rate": 1,
     "records": [
+        {
+            "user": "fila",
+            "link": "https://www.youtube.com/watch?v=KNW-FU4hfSw",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
