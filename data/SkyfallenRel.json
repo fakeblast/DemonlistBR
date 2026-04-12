@@ -1,2 +1,18 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+{
+    "id": 111372142,
+    "name": "Skyfallen Reliquary",
+    "author": "soumpeixe",
+    "creators": [],
+    "verifier": "soumpeixe",
+    "verification": "https://www.youtube.com/watch?v=dTVqMjkVRMA",
+    "percentToQualify": "75",
+    "rate": 1,
+    "records": [
+            {
+            "user": "Ossemapelido",
+            "link": "https://www.youtube.com/watch?v=TmdWYASrj78",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
