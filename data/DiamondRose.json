@@ -8,5 +8,11 @@
     "percentToQualify": "75",
     "rate": 1,
     "records": [
+        {
+            "user": "Ossemapelido",
+            "link": "https://www.youtube.com/watch?v=d2cYe8gjPwg",
+            "percent": 100,
+            "hz": []
+        }
     ]
 }
