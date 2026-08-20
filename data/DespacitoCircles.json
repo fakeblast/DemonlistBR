@@ -8,5 +8,11 @@
     "percentToQualify": "75",
     "rate": 1,
     "records": [
+        {
+            "user": "ymatheuzin",
+            "link": "https://www.youtube.com/watch?v=nKczPWmQIuo",
+            "percent": 100,
+            "hz": []
+        }
     ]
 }
