@@ -8,5 +8,11 @@
     "percentToQualify": "75",
     "rate": 1,
     "records": [
+        {
+            "user": "NinjaDeivid",
+            "link": "https://www.youtube.com/watch?v=spCAy9-UCNA",
+            "percent": 100,
+            "hz": []
+        }
     ]
 }
